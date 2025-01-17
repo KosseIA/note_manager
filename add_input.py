@@ -1,7 +1,7 @@
 username = input('Введите ваше имя: ')
 title = input('Введите заголовок заметки: ')
 content = input('Введите содержание заметки: ')
-status = input('Выполнено!')
+status = 'Выполнено!'
 created_date = '08-01-2025'
 issue_date = '10-01-2025'
 print('Имя пользователя: ', username)
